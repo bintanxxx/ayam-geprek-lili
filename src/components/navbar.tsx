@@ -18,7 +18,7 @@ const NAV_LINKS = [
   { label: "Lokasi", href: "#lokasi" },
 ];
 
-const WA_NUMBER = "6281234567890";
+const WA_NUMBER = "6281290414208";
 const WA_MESSAGE = encodeURIComponent(
   "Halo Kak, saya mau pesan Ayam Geprek Lili!",
 );
